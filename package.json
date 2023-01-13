@@ -1,0 +1,19 @@
+{
+  "name": "bsm",
+  "version": "1.0.0",
+  "description": "Personal project to exercise some knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranayke/Business-Smart-Management.git"
+  },
+  "author": "Ranayke Boni Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranayke/Business-Smart-Management/issues"
+  },
+  "homepage": "https://github.com/Ranayke/Business-Smart-Management#readme"
+}
