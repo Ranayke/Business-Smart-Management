@@ -4,12 +4,14 @@
 }
 
 .NavBar {
+    display: flex;
+    align-items: center;
     padding: 1rem;
     background-color: aqua;
     color: black;
-    height: 10vh;
+    height: 8vh;
     text-align: left;
-    align-items: center;
+    
 }
 
 .Hero {
